@@ -1,0 +1,22 @@
+{
+    "template": "startpage",
+    "content_elements": [
+        {
+            "title": "This is the startpage",
+            "subtitle": "lorem ipsum 1",
+            "content": "Lorem ipsum dolore sit amut 1"
+        },
+
+        {
+            "title": "Another Content Element 2",
+            "subtitle": "lorem ipsum 2",
+            "content": "Lorem ipsum dolore sit amut 2"
+        },
+        
+        {
+            "title": "Another Content Element 3",
+            "subtitle": "lorem ipsum 3",
+            "content": "Lorem ipsum dolore sit amut 3"
+        }
+    ]
+}

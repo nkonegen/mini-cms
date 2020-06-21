@@ -1,0 +1,22 @@
+{
+    "template": "subpage",
+    "content_elements": [
+        {
+            "title": "This is a subpage1",
+            "subtitle": "lorem ipsum",
+            "content": "Lorem ipsum dolore sit amut"
+        },
+
+        {
+            "title": "Another Content Element",
+            "subtitle": "lorem ipsum",
+            "content": "Lorem ipsum dolore sit amut"
+        },
+
+        {
+            "title": "Another Content Element",
+            "subtitle": "lorem ipsum",
+            "content": "Lorem ipsum dolore sit amut"
+        }
+    ]
+}
